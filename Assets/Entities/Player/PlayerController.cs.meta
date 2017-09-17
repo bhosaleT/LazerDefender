@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0132c1c40d6f645bfbcc36370d38ab38
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lazerPrefab: {instanceID: 0}
+  - playerLazer: {fileID: 8300000, guid: d3c6fd467c13e4743b1a74ee007b5bcf, type: 3}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
